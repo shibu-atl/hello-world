@@ -25,6 +25,7 @@
 
         <input type="text" name="username" placeholder="Username" required>
 	<br>
+	<input type="text" name="userfullname" placeholder="Userfullname" required>
         <input type="password" name="password" placeholder="Password" required>
         <input type="submit" value="Login">
       </div>
